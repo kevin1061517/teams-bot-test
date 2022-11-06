@@ -1,0 +1,1 @@
+web: gunicorn main-teams-bot:app
