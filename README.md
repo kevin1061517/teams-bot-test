@@ -12,3 +12,6 @@ git add .
 git commit -m "add profile"
 git push heroku master
 ```
+
+### Test Link
+https://ms-teams-chatbot.herokuapp.com/get-reply
